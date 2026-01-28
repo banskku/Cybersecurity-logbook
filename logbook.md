@@ -8,3 +8,4 @@
 | 21.1.2026 | 1 | Task 3 | Create logbook |
 | 22.1.2026 | 3 | Netacda module 4 and 5 | Study and quiz |
 | 22.1.2026 | 2 | Netacda final exam | Study and exam passed |
+| 28.1.2026 | 1 | SQL injektion | Lab and reflection |
